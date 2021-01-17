@@ -55,6 +55,7 @@ namespace ClassMethodDemo
             // Get All Customer Info
             // customerManager.GetAll(customerList);
 
+            Console.WriteLine("Hello GitHub!");
 
         }
     }
