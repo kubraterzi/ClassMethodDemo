@@ -56,9 +56,6 @@ namespace ClassMethodDemo
             // customerManager.GetAll(customerList);
 
 
-            Console.WriteLine("Example");
-
-            Console.WriteLine("Demo");
 
 
         }
