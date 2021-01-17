@@ -57,9 +57,6 @@ namespace ClassMethodDemo
 
             Console.WriteLine("Hello GitHub!");
 
-            Console.WriteLine("Example");
-
-            Console.WriteLine("Demo");
 
 
         }
