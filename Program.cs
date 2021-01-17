@@ -56,11 +56,11 @@ namespace ClassMethodDemo
             // customerManager.GetAll(customerList);
 
             Console.WriteLine("Hello GitHub!");
-<<<<<<< HEAD
+
             Console.WriteLine("Example");
-=======
+
             Console.WriteLine("Demo");
->>>>>>> 5c0b333c200db24a8374505bd3c19fe3737dc93e
+
 
         }
     }
