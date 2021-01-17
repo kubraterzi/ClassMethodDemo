@@ -56,8 +56,6 @@ namespace ClassMethodDemo
             // customerManager.GetAll(customerList);
 
 
-
-
         }
     }
 }
